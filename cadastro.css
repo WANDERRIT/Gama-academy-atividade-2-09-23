@@ -1,0 +1,50 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100&display=swap');
+*{font-family: 'Outfit', sans-serif;}
+
+body{
+    background-color: rgb(134, 126, 126);
+}
+.div{
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10;
+    width: 40%;
+    height: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 10px 30px;
+    border-style: solid;
+    border-color: rgb(14, 206, 235) ;
+
+}
+input{
+    height: 20px;
+    background-color: rgb(220, 217, 217);
+}
+.div-input{
+    display: flex;
+    justify-content: center;
+    
+}
+.div-input-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    
+}
+.button-2{
+    width: 173px;
+    box-shadow: 0px 10px 10px;
+}
+h1{
+    text-align: center;
+}
+
+
+.button{
+    border-style: solid;
+    border-color:rgb(14, 206, 235);
+    border-radius: 0.2;
+    box-shadow: 0px 10px 10px;
+}
